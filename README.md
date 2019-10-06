@@ -9,3 +9,10 @@
 swift不能像C++和Python那样简单的include或import
 
 http://andelf.github.io/blog/2014/06/19/modules-for-swift/
+
+# SwiftUI Modifier 原理 和 ViewBuilder 原理
+
+https://www.infoq.cn/article/tWNQUd4AIsUROJcgWsX9
+
+https://onevcat.com/2019/06/swift-ui-firstlook/
+
