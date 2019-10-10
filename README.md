@@ -16,3 +16,6 @@ https://www.infoq.cn/article/tWNQUd4AIsUROJcgWsX9
 
 https://onevcat.com/2019/06/swift-ui-firstlook/
 
+# 关于 SwiftUI 数据双向绑定原理
+
+https://juejin.im/post/5d625c01f265da03cd0a8a58
