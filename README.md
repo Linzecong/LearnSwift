@@ -19,3 +19,7 @@ https://onevcat.com/2019/06/swift-ui-firstlook/
 # 关于 SwiftUI 数据双向绑定原理
 
 https://juejin.im/post/5d625c01f265da03cd0a8a58
+
+# 关于 Swift 的包管理工具
+
+https://juejin.im/post/5a3cc9a351882560b76c5ddf
